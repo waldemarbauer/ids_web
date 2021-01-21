@@ -1,4 +1,4 @@
-# ids_web
+# ids_web dodaje informacje
 
 # pierwszy commit tutaj zmieniam 
 
