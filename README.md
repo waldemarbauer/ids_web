@@ -5,3 +5,5 @@
 # będzie konflikt
 
 # dodaję kolejne informacje
+
+# dodaje kolejne
