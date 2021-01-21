@@ -1,6 +1,6 @@
 # ids_web
 
-# pierwszy commit
+# pierwszy commit tutaj zmieniam 
 
 # będzie konflikt
 
