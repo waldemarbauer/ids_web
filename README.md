@@ -6,4 +6,4 @@
 
 # dodaję kolejne informacje
 
-# dodaje kolejne
+# dodaje kolejne tutaj jestem ja w 1
